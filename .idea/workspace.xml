@@ -4,7 +4,151 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab14e592-adb6-4a5f-a98e-12975dec6a6a" name="Changes" comment="" />
+    <list default="true" id="4975d3cb-1c18-44e8-94c9-1da69fe63dda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AMC_CORTEZ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/kotlin/com/example/schedule_resolver_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/models/schedule_analysis.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/models/task_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/providers/schedule_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/screens/dashboard_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/screens/recommendation_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/screens/task_input_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/lib/services/ai_schedule_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule_resolver_app/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss/ss1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss/ss2.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +157,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="3CkzhLwCuHQT2O3NH85bc5YpYgg" />
+  <component name="ProjectId" id="3Cl3ExYvvKaGxuwKzriKWxPBHMi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,10 +173,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/AMC_CORTEZ",
     "settings.editor.selected.configurable": "AndroidSdkUpdater",
@@ -38,11 +187,11 @@
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab14e592-adb6-4a5f-a98e-12975dec6a6a" name="Changes" comment="" />
-      <created>1776944473969</created>
+      <changelist id="4975d3cb-1c18-44e8-94c9-1da69fe63dda" name="Changes" comment="" />
+      <created>1776946222051</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1776944473969</updated>
+      <updated>1776946222051</updated>
     </task>
     <servers />
   </component>
